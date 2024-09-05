@@ -1,0 +1,3 @@
+﻿  Point of Sale Activity.cpp
+C:\Users\D242U18\source\repos\Point of Sale Activity\Point of Sale Activity\Point_of_Sale.h(45,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Point of Sale Activity.vcxproj -> C:\Users\D242U18\source\repos\Point of Sale Activity\x64\Debug\Point of Sale Activity.exe
